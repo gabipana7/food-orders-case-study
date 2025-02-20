@@ -1,4 +1,4 @@
-# Data Science Project: Wolt Applied Science Intern pre-assignment
+# Food orders data science case study
 
 ## Requirements
 This project uses Python version 3.13.0 with Jupyter Notebooks, coded in VSCode on a Windows 11 machine.
@@ -37,6 +37,8 @@ pip install -r requirements.txt
 6. [Evaluation](#evaluation)
 7. [Conclusion](#conclusion)
 8. [Requirements](#requirements)
+
+![slides-gif](presentation/presentation-animated.gif)
 
 ## Introduction
 This project was represents an assignment for the Wolt Applied Science Internship 2025.
@@ -166,3 +168,6 @@ Further developments:
     - use SARIMA (because data has seasonality)
     - forecast number of orders on a particular day (focus on weekday vs weekend)
 - try other clustering methods (e.g. DBSCAN)
+
+Disclaimer: This project has been completed as an assignment for the food delivery company Wolt, as part of their Applied Science Internship application.
+Credits for the dataset go to Wolt, [publicly available](https://github.com/woltapp/applied-science-internship-2025)
